@@ -1,6 +1,6 @@
-# Using Keras and Deep Deterministic Policy Gradient to play TORCS
+# Deep Reinforcement Learning approach to Autonomous Navigation
 ## Abstract
-
+In this project we use state-of-the-art RL algorithms to explore the problem of Autonomous Navigation. Specifically, we employ DeepMind's DDPG (Deep Deterministic Policy Gradient) algorithm to learn an agent for navigation in TORCS simulation environment.
 
 ## Simulation Environment
 We use TORCS([gym_torcs](https://github.com/ugo-nama-kun/gym_torcs)) simulation environment for this task.  
