@@ -17,10 +17,6 @@ alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/HJdEWgKRRwE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
-## Credits
-Thanks to [Yanpanlau](https://github.com/yanpanlau/DDPG-Keras-Torcs.git)
-
-<!--
 ## Installation Dependencies:
 * Python 2.7
 * Keras 1.1.0
@@ -34,6 +30,7 @@ cp *.* ~/gym_torcs
 cd ~/gym_torcs
 python ddpg.py 
 ```
-(Change the flag **train_indicator**=1 in ddpg.py if you want to train the network)
---!>  
+(Change the flag **train_indicator**=1 in ddpg.py if you want to train the network)  
 
+## Credits
+Thanks to [Yanpanlau](https://github.com/yanpanlau/DDPG-Keras-Torcs.git)
