@@ -1,14 +1,9 @@
 # Using Keras and Deep Deterministic Policy Gradient to play TORCS
 ## Abstract
 
-300 lines of python code to demonstrate DDPG with Keras
-
-Please read the following blog for details
-
-https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
 
 ## Simulation Environment
-We use TORCS simulation environment for this task.
+We use TORCS([gym_torcs](https://github.com/ugo-nama-kun/gym_torcs)) simulation environment for this task.  
 ![](fast.gif)
 
 ## Installation Dependencies:
