@@ -7,6 +7,7 @@ We use TORCS([gym_torcs](https://github.com/ugo-nama-kun/gym_torcs)) simulation 
 
 ![](fast.gif)
 
+<!--
 ## Installation Dependencies:
 
 * Python 2.7
@@ -25,6 +26,6 @@ python ddpg.py
 ```
 
 (Change the flag **train_indicator**=1 in ddpg.py if you want to train the network)
-
+--!>
 ## Credits
 Thanks to [Yanpanlau](https://github.com/yanpanlau/DDPG-Keras-Torcs.git)
